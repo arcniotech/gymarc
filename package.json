@@ -1,0 +1,9 @@
+{
+  "name": "pulse-gym-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "react-router-dom": "latest", "lucide-react": "latest", "recharts": "latest", "react-hook-form": "latest", "jspdf": "latest", "xlsx": "latest" },
+  "devDependencies": {}
+}
